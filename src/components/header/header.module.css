@@ -1,0 +1,8 @@
+/*CSS Module — uma forma de escrever CSS com escopo local, ou seja, os estilos definidos nesse arquivo só afetam o componente que o importa.*/
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  max-width: 1080px;
+}
